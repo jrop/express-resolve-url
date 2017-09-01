@@ -1,6 +1,8 @@
 express-resolve-url
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/express-resolve-url.svg)](https://greenkeeper.io/)
+
 > Resolve URLs easily in express.js
 
 # Installation
